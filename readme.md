@@ -8,10 +8,10 @@ A script that will look for `.ttf` files in the same folder and make their respe
 
 ## How to use
 
-After `npm -i -g ttf2woff`, simply get the convert.mjs file and `node convert.mjs`
+After `npm -i -g ttf2woff`, simply get the convert.mjs file and `node convert.mjs` in the folder you need
 
 Or:
 
-1. Download & save it wherever you want, treat it like a program
+1. Download & save it wherever you need
 2. `npm install`
 3. `npm run convert`
