@@ -1,0 +1,11 @@
+{
+  "name": "ttf2woff2-simpler",
+  "scripts": {
+    "convert": "node convert.mjs"
+  },
+  "author": "Kevin Zaracho <contacto@kenza.ar> (https://kenza.ar/)",
+  "license": "MIT",
+  "devDependencies": {
+    "ttf2woff2": "^4.0.4"
+  }
+}
